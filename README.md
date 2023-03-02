@@ -2,4 +2,4 @@
 
 ## UML
 
-! [Diagram]{form.png}
+! [Diagramm]{form.png}
